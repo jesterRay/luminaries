@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luminaries/static/css/main.4370fac5.css",
+    "main.js": "/luminaries/static/js/main.610738c4.js",
+    "index.html": "/luminaries/index.html",
+    "main.4370fac5.css.map": "/luminaries/static/css/main.4370fac5.css.map",
+    "main.610738c4.js.map": "/luminaries/static/js/main.610738c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4370fac5.css",
+    "static/js/main.610738c4.js"
+  ]
+}
